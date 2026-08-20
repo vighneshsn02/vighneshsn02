@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE student 🤖
+CSE student 💻⌨️
 
 
 # 💻 Tech Stack:
